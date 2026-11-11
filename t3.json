@@ -1,0 +1,10 @@
+{
+  "$schema": "https://t3.codes/schema/t3.json",
+  "scripts": [
+    {
+      "name": "Projekt-Stand",
+      "command": "bun ~/.claude/skills/_PROJEKT/Tools/Projekt.ts open full-stack-human",
+      "icon": "configure"
+    }
+  ]
+}
